@@ -1,0 +1,7 @@
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\MencariSelisih\MencariSelisih\bin\Debug\MencariSelisih.exe.config
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\MencariSelisih\MencariSelisih\bin\Debug\MencariSelisih.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\MencariSelisih\MencariSelisih\bin\Debug\MencariSelisih.pdb
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\MencariSelisih\MencariSelisih\obj\Debug\MencariSelisih.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\MencariSelisih\MencariSelisih\obj\Debug\MencariSelisih.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\MencariSelisih\MencariSelisih\obj\Debug\MencariSelisih.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\MencariSelisih\MencariSelisih\obj\Debug\MencariSelisih.pdb

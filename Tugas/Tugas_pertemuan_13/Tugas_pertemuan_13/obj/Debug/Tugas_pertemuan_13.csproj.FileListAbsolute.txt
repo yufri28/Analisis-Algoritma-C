@@ -1,0 +1,7 @@
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_13\Tugas_pertemuan_13\bin\Debug\Tugas_pertemuan_13.exe.config
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_13\Tugas_pertemuan_13\bin\Debug\Tugas_pertemuan_13.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_13\Tugas_pertemuan_13\bin\Debug\Tugas_pertemuan_13.pdb
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_13\Tugas_pertemuan_13\obj\Debug\Tugas_pertemuan_13.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_13\Tugas_pertemuan_13\obj\Debug\Tugas_pertemuan_13.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_13\Tugas_pertemuan_13\obj\Debug\Tugas_pertemuan_13.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_13\Tugas_pertemuan_13\obj\Debug\Tugas_pertemuan_13.pdb

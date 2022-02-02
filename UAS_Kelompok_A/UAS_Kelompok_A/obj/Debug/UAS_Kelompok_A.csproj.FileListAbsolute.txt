@@ -1,0 +1,7 @@
+D:\Project\Visual Studio Project\Analisis Algoritma C\UAS_Kelompok_A\UAS_Kelompok_A\bin\Debug\UAS_Kelompok_A.exe.config
+D:\Project\Visual Studio Project\Analisis Algoritma C\UAS_Kelompok_A\UAS_Kelompok_A\bin\Debug\UAS_Kelompok_A.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\UAS_Kelompok_A\UAS_Kelompok_A\bin\Debug\UAS_Kelompok_A.pdb
+D:\Project\Visual Studio Project\Analisis Algoritma C\UAS_Kelompok_A\UAS_Kelompok_A\obj\Debug\UAS_Kelompok_A.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\UAS_Kelompok_A\UAS_Kelompok_A\obj\Debug\UAS_Kelompok_A.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\UAS_Kelompok_A\UAS_Kelompok_A\obj\Debug\UAS_Kelompok_A.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\UAS_Kelompok_A\UAS_Kelompok_A\obj\Debug\UAS_Kelompok_A.pdb

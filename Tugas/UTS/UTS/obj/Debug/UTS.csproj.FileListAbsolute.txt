@@ -1,0 +1,7 @@
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\UTS\UTS\bin\Debug\UTS.exe.config
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\UTS\UTS\bin\Debug\UTS.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\UTS\UTS\bin\Debug\UTS.pdb
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\UTS\UTS\obj\Debug\UTS.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\UTS\UTS\obj\Debug\UTS.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\UTS\UTS\obj\Debug\UTS.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\UTS\UTS\obj\Debug\UTS.pdb

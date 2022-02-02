@@ -1,0 +1,7 @@
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_6_kel_A\tugas_pertemuan_6_kel_A\bin\Debug\tugas_pertemuan_6_kel_A.exe.config
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_6_kel_A\tugas_pertemuan_6_kel_A\bin\Debug\tugas_pertemuan_6_kel_A.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_6_kel_A\tugas_pertemuan_6_kel_A\bin\Debug\tugas_pertemuan_6_kel_A.pdb
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_6_kel_A\tugas_pertemuan_6_kel_A\obj\Debug\tugas_pertemuan_6_kel_A.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_6_kel_A\tugas_pertemuan_6_kel_A\obj\Debug\tugas_pertemuan_6_kel_A.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_6_kel_A\tugas_pertemuan_6_kel_A\obj\Debug\tugas_pertemuan_6_kel_A.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_6_kel_A\tugas_pertemuan_6_kel_A\obj\Debug\tugas_pertemuan_6_kel_A.pdb

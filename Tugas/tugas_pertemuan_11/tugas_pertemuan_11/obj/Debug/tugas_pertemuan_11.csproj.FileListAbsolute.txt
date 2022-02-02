@@ -1,0 +1,7 @@
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_11\tugas_pertemuan_11\bin\Debug\tugas_pertemuan_11.exe.config
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_11\tugas_pertemuan_11\bin\Debug\tugas_pertemuan_11.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_11\tugas_pertemuan_11\bin\Debug\tugas_pertemuan_11.pdb
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_11\tugas_pertemuan_11\obj\Debug\tugas_pertemuan_11.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_11\tugas_pertemuan_11\obj\Debug\tugas_pertemuan_11.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_11\tugas_pertemuan_11\obj\Debug\tugas_pertemuan_11.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_11\tugas_pertemuan_11\obj\Debug\tugas_pertemuan_11.pdb

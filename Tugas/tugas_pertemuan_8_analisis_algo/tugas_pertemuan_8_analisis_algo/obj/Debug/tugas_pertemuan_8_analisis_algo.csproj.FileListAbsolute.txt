@@ -1,0 +1,7 @@
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_8_analisis_algo\tugas_pertemuan_8_analisis_algo\bin\Debug\tugas_pertemuan_8_analisis_algo.exe.config
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_8_analisis_algo\tugas_pertemuan_8_analisis_algo\bin\Debug\tugas_pertemuan_8_analisis_algo.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_8_analisis_algo\tugas_pertemuan_8_analisis_algo\bin\Debug\tugas_pertemuan_8_analisis_algo.pdb
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_8_analisis_algo\tugas_pertemuan_8_analisis_algo\obj\Debug\tugas_pertemuan_8_analisis_algo.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_8_analisis_algo\tugas_pertemuan_8_analisis_algo\obj\Debug\tugas_pertemuan_8_analisis_algo.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_8_analisis_algo\tugas_pertemuan_8_analisis_algo\obj\Debug\tugas_pertemuan_8_analisis_algo.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_pertemuan_8_analisis_algo\tugas_pertemuan_8_analisis_algo\obj\Debug\tugas_pertemuan_8_analisis_algo.pdb

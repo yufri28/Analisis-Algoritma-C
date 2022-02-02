@@ -1,0 +1,7 @@
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_5_Kel_A\Tugas_pertemuan_5_Kel_A\bin\Debug\Tugas_pertemuan_5_Kel_A.exe.config
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_5_Kel_A\Tugas_pertemuan_5_Kel_A\bin\Debug\Tugas_pertemuan_5_Kel_A.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_5_Kel_A\Tugas_pertemuan_5_Kel_A\bin\Debug\Tugas_pertemuan_5_Kel_A.pdb
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_5_Kel_A\Tugas_pertemuan_5_Kel_A\obj\Debug\Tugas_pertemuan_5_Kel_A.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_5_Kel_A\Tugas_pertemuan_5_Kel_A\obj\Debug\Tugas_pertemuan_5_Kel_A.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_5_Kel_A\Tugas_pertemuan_5_Kel_A\obj\Debug\Tugas_pertemuan_5_Kel_A.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\Tugas_pertemuan_5_Kel_A\Tugas_pertemuan_5_Kel_A\obj\Debug\Tugas_pertemuan_5_Kel_A.pdb

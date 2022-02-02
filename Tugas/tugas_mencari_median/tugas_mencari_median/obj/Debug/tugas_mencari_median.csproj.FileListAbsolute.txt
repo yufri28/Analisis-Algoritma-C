@@ -1,0 +1,7 @@
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_mencari_median\tugas_mencari_median\obj\Debug\tugas_mencari_median.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_mencari_median\tugas_mencari_median\obj\Debug\tugas_mencari_median.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_mencari_median\tugas_mencari_median\bin\Debug\tugas_mencari_median.exe.config
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_mencari_median\tugas_mencari_median\bin\Debug\tugas_mencari_median.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_mencari_median\tugas_mencari_median\bin\Debug\tugas_mencari_median.pdb
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_mencari_median\tugas_mencari_median\obj\Debug\tugas_mencari_median.exe
+D:\Project\Visual Studio Project\Analisis Algoritma C\Tugas\tugas_mencari_median\tugas_mencari_median\obj\Debug\tugas_mencari_median.pdb
